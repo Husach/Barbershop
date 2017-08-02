@@ -148,6 +148,7 @@ body {
 	height: 20px;
 	background: #fff;
 	transform: rotate(45deg);
+	margin-right: 10px;
 }
 .content {
 	background: #fff;
